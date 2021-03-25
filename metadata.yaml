@@ -1,11 +1,16 @@
 _repo: A-Farewell-Sermon-delivered-on-Sunday-October-23-AD-1842-at-the-Parish-Church-of-St-Mary-Abbo__64716
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64716-h/images/cover.jpg
 creator:
   author:
     agent_name: Pott, Joseph Holden
     gutenberg_agent_id: '53022'
     url: http://www.gutenberg.org/2009/agents/53022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64716#A-Farewell-Sermon-delivered-on-Sunday-October-23-AD-1842-at-the-Parish-Church-of-St-Mary-Abbo_
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
